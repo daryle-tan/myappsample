@@ -1,2 +1,2 @@
 # myappsample
-sample app following tutorial
+sample app following tutorial.
